@@ -1,0 +1,16 @@
+body{
+    padding: 20px;
+}
+
+h1#TitleText{
+    text-align: center;
+}
+
+h1{
+    color:red;
+}
+
+/* Create a solid green border around the footer element of the page */
+footer{
+    border: 2px solid green;
+}
